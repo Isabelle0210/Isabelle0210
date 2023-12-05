@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Olá! Me chamo Isabelle Caroline</h1>
 
-<!--
-**Isabelle0210/Isabelle0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com front-end
+- 🌱 Estundando Javascript e bootstrap
+- 😄 Pronouns: Ela/Dela
+  
+<div style="display: inline-block"> <br>
+  <img align="center" alt="Isa-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
 
-Here are some ideas to get you started:
+##
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabelle0210&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle0210&layout=compact&theme=synthwave)
+
