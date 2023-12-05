@@ -3,6 +3,8 @@
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estundando Javascript e bootstrap
 - 😄 Pronouns: Ela/Dela
+- Contato: isabelleisa646@gmail.com
+- Linkedin: www.linkedin.com/in/isabellecaroline
   
 <div style="display: inline-block">
   <img align="center" alt="Isa-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
