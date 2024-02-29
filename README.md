@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estundando Javascript e bootstrap
-- Cursando Engenharia de Software
+-  Cursando Engenharia de Software
 - 😄 Pronouns: Ela/Dela
 - Contato: isabelleisa646@gmail.com
 - Linkedin: www.linkedin.com/in/isabellecaroline
