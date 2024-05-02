@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Isabelle Caroline</h1>
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estundando Javascript e bootstrap
+- 🌱 Estundando Javascript e React
 -  Cursando Engenharia de Software
 - 😄 Pronouns: Ela/Dela
 - Contato: isabelleisa646@gmail.com
