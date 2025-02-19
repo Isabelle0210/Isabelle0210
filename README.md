@@ -21,5 +21,5 @@
 
 ##
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle0210&layout=compact&theme=synthwave)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
