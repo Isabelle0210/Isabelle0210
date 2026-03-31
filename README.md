@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sistemas ERP](https://github.com/Isabelle0210/ApiERP)
 
-- 🌱 I’m currently learning **PYTHON, DJANGO, C#**
+- 🌱 I’m currently learning **PYTHON, MACHINE LEARNING
 
 - 📫 How to reach me **isabelleisa646@gmail.com**
 
